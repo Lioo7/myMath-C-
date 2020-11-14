@@ -13,6 +13,14 @@ The calculator using those operations:
 * −, minus (subtraction).
 * ÷, obelus (division).
 * ×, times (multiplication).
-* ^,power (exponentiation). 
+* ^, power (exponentiation). 
+
+The program conatins a Makefile file with the following commands:
+* all: Compile the program.
+* mains: Creates a static main file.
+* maind: Creates a dynamic main file.
+* libmyMath.so: Creates a dynamic library.
+* libmyMath.a: Creates a static library.
+* clean: Deletes all files with the following extensions .o .a .so .out and execute files.
 
 @author Lioz Akirav.
