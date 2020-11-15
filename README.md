@@ -1,6 +1,6 @@
-# myMath-C-
+# ss_hw1
 
-Created during my second year at Ariel University in the Department of Computer Science, 2020.
+This project Made during sw systems course at Ariel University in the Department of Computer Science, 2020.
 Project site: https://github.com/Lioo7/Ex0.git
 
 The assignment is about creating a calculator, which can calculate the following three different functions at a given point:
